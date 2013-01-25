@@ -2,4 +2,6 @@
 *.class
 *.jar
 *.iml
+*.ipr
+*.iws
 /target
